@@ -1,2 +1,2 @@
-libraries:
-    feConfig:
+project:
+    name: feConfig
